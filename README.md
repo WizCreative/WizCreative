@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @WizCreative
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
-- ⚡ Fun fact: Nature has too many bugs
+- 👀 I’m interested in python,java etc
+- 🌱 I’m currently learning web dev
+- 📫 How to reach me deepakmreji343@gmail.com
+- ⚡ Fun fact: Fun facts are a waste of time.
 
 <!---
 WizCreative/WizCreative is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
