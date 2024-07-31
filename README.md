@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @WizCreative
-- 👀 I’m interested in python,java etc
-- 🌱 I’m currently learning web dev
+- 👋 Hi, I’m Deepak
+- 👀 I’m interested in python,C etc
+- 🌱 I’m currently learning Robotics and Automation Engineering
 - 📫 How to reach me deepakmreji343@gmail.com
-- ⚡ Fun fact: Fun facts are a waste of time.
 
 <!---
 WizCreative/WizCreative is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
