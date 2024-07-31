@@ -2,6 +2,7 @@
 - 👀 I’m interested in python,C etc
 - 🌱 I’m currently learning Robotics and Automation Engineering
 - 📫 How to reach me deepakmreji343@gmail.com
+- ⚡ Fun-Fact: The Little Red Riding Hood was actually supposed to have different ending where actually the Wolf znd the girl eat the granama.
 
 <!---
 WizCreative/WizCreative is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
